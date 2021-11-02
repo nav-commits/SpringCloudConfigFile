@@ -1,7 +1,7 @@
 
-my.greeting : Hello world from spring cloud 2021 applications
+my.greeting : Hello world from spring cloud 2021
 
 db:
   host : '127.0.0.1'
   port : 1200
-  connection : "Connection string"
+  connection : "Connecting to application"
