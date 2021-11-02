@@ -1,1 +1,7 @@
 
+my.greeting : Hello world from spring cloud
+
+db:
+  host : '127.0.0.1'
+  port : 1200
+  connection : "Connection string"
