@@ -5,4 +5,4 @@ my:
 db:
   host : '127.0.0.1'
   port : 1200
-  connection : "{connectionString: 'http://_', userName: 'foo', password: 'joe'}"
+  connection : "Connecting to string"
