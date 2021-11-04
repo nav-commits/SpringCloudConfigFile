@@ -1,8 +1,8 @@
 
 my:
-  greeting : Hello world from Nav SpringCloud
+  greeting : Spring Cloud Hello World
 
 db:
   host : '127.0.0.1'
   port : 1200
-  connection : "Connecting to application"
+  connection : "Connecting to the application right now"
