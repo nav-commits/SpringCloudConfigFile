@@ -1,5 +1,6 @@
 
-my.greeting : Hello world from Nav SpringCloud
+my:
+  greeting : Hello world from Nav SpringCloud
 
 db:
   host : '127.0.0.1'
