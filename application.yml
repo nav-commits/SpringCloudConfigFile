@@ -3,6 +3,6 @@ my:
   greeting : Spring Cloud Hello World
 
 db:
-  host : '127.0.0.1'
+  host : 127.0.0.1
   port : 1200
   connection : "Connecting to the application right now"
