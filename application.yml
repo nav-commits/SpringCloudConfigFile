@@ -1,6 +1,6 @@
 
 my:
-  greeting : Spring Cloud Hello World from Nav
+  greeting : Spring Cloud Hello World from Nav hello world
 
 db:
   host : 127.0.0.1
